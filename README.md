@@ -18,3 +18,4 @@ Belajar dasar Git dengan Github (Progres 100%)
   * Belajar tentang github sebagai salah satu vision control system
   * Latihan menggunakan github
   * Membuat project menggunakan github
+  * Mendapatkan Sertifikat
