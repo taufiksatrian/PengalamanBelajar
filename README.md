@@ -19,3 +19,5 @@ Belajar dasar Git dengan Github (Progres 100%)
   * Latihan menggunakan github
   * Membuat project menggunakan github
   * Mendapatkan Sertifikat
+  
+ Selamat Anda Lulus Kelas Belajar Dasar Git dengan Github
